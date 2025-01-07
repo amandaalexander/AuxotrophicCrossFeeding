@@ -1,5 +1,5 @@
 # Long-term homeostasis in microbial consortia via auxotrophic cross-feeding
-Authors: Nicolas E. Grandel, Amanda M. Alexander, Xiao Peng, Caroline Palamountain, Razan N. Alnahhas,Andrew J. Hirning, Kre\v simir Josi\' c, Matthew R. Bennett
+Authors: Nicolas E. Grandel, Amanda M. Alexander, Xiao Peng, Caroline Palamountain, Razan N. Alnahhas,Andrew J. Hirning, Krešimir Josić, Matthew R. Bennett
 
 This repository contains code used to fit model parameters to the data in the paper "Long-term homeostasis in microbial consortia via auxotrophic cross-feeding."
 

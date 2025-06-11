@@ -4,3 +4,6 @@ Authors: Nicolas E. Grandel, Amanda M. Alexander, Xiao Peng, Caroline Palamounta
 This repository contains code that uses the PyMC Python package to fit model parameters to the data in the paper "Long-term homeostasis in microbial consortia via auxotrophic cross-feeding."
 
 The files "Auxotroph-nonaut-phase1.ipynb" and "Auxotroph-nonaut-phase2.ipynb" contain the code used to obtain parameter values used in the main text, as well as produce Figures S5 and S6. The file "Auxotroph-autonomous-06-01-2025" is used to produce Figure S8.
+
+[![DOI](https://zenodo.org/badge/913080243.svg)](https://doi.org/10.5281/zenodo.15636765)
+
